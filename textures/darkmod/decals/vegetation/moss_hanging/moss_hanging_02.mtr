@@ -1,0 +1,15 @@
+
+textures/darkmod/custom/decals/moss_hanging_02
+{
+	nonsolid
+	noshadows
+	noimpact
+	
+	bumpmap textures/darkmod/custom/decals/moss_hanging_02_local
+
+  	{
+	blend diffusemap
+	map textures/darkmod/custom/decals/moss_hanging_02
+	alphaTest 0.5
+	}
+}

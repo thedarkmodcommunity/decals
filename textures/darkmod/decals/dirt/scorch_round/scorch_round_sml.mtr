@@ -1,0 +1,15 @@
+
+
+textures/darkmod/custom/decals/scorch_round_sml
+{
+	translucent
+	nonsolid
+	noshadows
+	//sort 1
+
+	{       
+		blend		gl_dst_color,gl_zero
+		map		textures/darkmod/custom/decals/scorch_round_sml
+		
+	}
+}
