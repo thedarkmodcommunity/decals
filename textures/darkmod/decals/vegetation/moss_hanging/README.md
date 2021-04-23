@@ -7,4 +7,4 @@
 Author: Kerry000
 
 ## Preview image
-![alt text](moss_hanging_ex.jpg "moss")
+![alt text](moss_hanging_02_ex.jpg "moss")
