@@ -1,4 +1,4 @@
 # Decals
-Custom textures with transparent alpha channel
+Custom decal textures with alpha transparency
 
 To contribute, see [here](CONTRIBUTING.md)
